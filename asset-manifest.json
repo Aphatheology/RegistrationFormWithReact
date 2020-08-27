@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RegistrationFormWithReact/static/css/main.c7c63369.chunk.css",
+    "main.js": "/RegistrationFormWithReact/static/js/main.fdec6d3f.chunk.js",
+    "main.js.map": "/RegistrationFormWithReact/static/js/main.fdec6d3f.chunk.js.map",
+    "runtime-main.js": "/RegistrationFormWithReact/static/js/runtime-main.3940c504.js",
+    "runtime-main.js.map": "/RegistrationFormWithReact/static/js/runtime-main.3940c504.js.map",
+    "static/css/2.11829350.chunk.css": "/RegistrationFormWithReact/static/css/2.11829350.chunk.css",
+    "static/js/2.e38dbe55.chunk.js": "/RegistrationFormWithReact/static/js/2.e38dbe55.chunk.js",
+    "static/js/2.e38dbe55.chunk.js.map": "/RegistrationFormWithReact/static/js/2.e38dbe55.chunk.js.map",
+    "index.html": "/RegistrationFormWithReact/index.html",
+    "precache-manifest.bebdc340569be23ef33dfb0305e04e8e.js": "/RegistrationFormWithReact/precache-manifest.bebdc340569be23ef33dfb0305e04e8e.js",
+    "service-worker.js": "/RegistrationFormWithReact/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/RegistrationFormWithReact/static/css/2.11829350.chunk.css.map",
+    "static/css/main.c7c63369.chunk.css.map": "/RegistrationFormWithReact/static/css/main.c7c63369.chunk.css.map",
+    "static/js/2.e38dbe55.chunk.js.LICENSE.txt": "/RegistrationFormWithReact/static/js/2.e38dbe55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3940c504.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.e38dbe55.chunk.js",
+    "static/css/main.c7c63369.chunk.css",
+    "static/js/main.fdec6d3f.chunk.js"
+  ]
+}
