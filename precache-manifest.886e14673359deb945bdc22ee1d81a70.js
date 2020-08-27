@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f6d7d6306ad16dabf67b71d95966b2b",
+    "revision": "b31ca7e4a3c31a2046bbf624ca2eb3e5",
     "url": "/RegistrationFormWithReact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RegistrationFormWithReact/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "e6395fa474a26d2109e8",
-    "url": "/RegistrationFormWithReact/static/css/main.c7c63369.chunk.css"
+    "revision": "941cfd59f40a8dd2711f",
+    "url": "/RegistrationFormWithReact/static/css/main.5ee1941f.chunk.css"
   },
   {
     "revision": "2240ccd706090e8d23c1",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RegistrationFormWithReact/static/js/2.e38dbe55.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6395fa474a26d2109e8",
+    "revision": "941cfd59f40a8dd2711f",
     "url": "/RegistrationFormWithReact/static/js/main.fdec6d3f.chunk.js"
   },
   {
